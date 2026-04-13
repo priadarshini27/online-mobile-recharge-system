@@ -24,7 +24,7 @@
         conn = DriverManager.getConnection(
             "jdbc:mysql://localhost:3306/ors",
             "root",
-            "pria@27"
+            ""
         );
 
         ps = conn.prepareStatement(
