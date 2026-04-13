@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "WEB-INF/lib/**/*.jar",
+    "C:\\Users\\priad\\Downloads\\apache-tomcat-9.0.115\\apache-tomcat-9.0.115\\lib\\servlet-api.jar"
+  ]
+}
