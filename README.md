@@ -32,3 +32,11 @@ A web-based application that enables users to perform mobile recharges easily an
 - Apache Tomcat  
 
 ---
+
+## Prerequisites
+
+- Java Development Kit (JDK 8 or later)
+- Apache Tomcat 9.x
+- MySQL Server
+
+> **Note:** This project uses the Java Servlet API. If your IDE does not automatically resolve `javax.servlet` imports, add Tomcat's `servlet-api.jar` (found in the `lib` directory of your Tomcat installation) to your project's build path.
