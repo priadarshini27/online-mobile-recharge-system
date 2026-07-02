@@ -53,7 +53,7 @@
 <html>
 <head>
     <title>User Settings - Online Mobile Recharge</title>
-    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
     <style>
         /* Additional styles for settings page to match application theme */
